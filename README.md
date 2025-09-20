@@ -1,7 +1,6 @@
 # Stress Test
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/kauesilva/stress-test)](https://goreportcard.com/report/github.com/kauesilva/stress-test)
-[![Build Status](https://github.com/kauesilva/stress-test/actions/workflows/go.yml/badge.svg)](https://github.com/kauesilva/stress-test/actions/workflows/go.yml)
 [![codecov](https://codecov.io/gh/kauesilva/stress-test/graph/badge.svg)](https://codecov.io/gh/kauesilva/stress-test)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
